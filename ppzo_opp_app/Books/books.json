@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 1,
+    "Title": "Władca Pierścieni",
+    "Author": "J.R.R. Tolkien",
+    "ReleaseYear": 1954,
+    "Genre": "Fantasy",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 2,
+    "Title": "Zbrodnia i kara",
+    "Author": "Fiodor Dostojewski",
+    "ReleaseYear": 1866,
+    "Genre": "Fikcja literacka",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 3,
+    "Title": "Harry Potter i Kamień Filozoficzny",
+    "Author": "J.K. Rowling",
+    "ReleaseYear": 1997,
+    "Genre": "Fantasy",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 4,
+    "Title": "1984",
+    "Author": "George Orwell",
+    "ReleaseYear": 1949,
+    "Genre": "Dystopia",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 5,
+    "Title": "Mistrz i Małgorzata",
+    "Author": "Michaił Bułhakow",
+    "ReleaseYear": 1966,
+    "Genre": "Surrealizm",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 6,
+    "Title": "To",
+    "Author": "Stephen King",
+    "ReleaseYear": 1986,
+    "Genre": "Horror",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 7,
+    "Title": "Małe życie",
+    "Author": "Hanya Yanagihara",
+    "ReleaseYear": 2015,
+    "Genre": "Fikcja literacka",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 8,
+    "Title": "Zdobywca",
+    "Author": "Ernest Hemingway",
+    "ReleaseYear": 1952,
+    "Genre": "Nowela",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 9,
+    "Title": "Sklepik z marzeniami",
+    "Author": "Stephen King",
+    "ReleaseYear": 1993,
+    "Genre": "Fantasy",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 10,
+    "Title": "Duma i uprzedzenie",
+    "Author": "Jane Austen",
+    "ReleaseYear": 1813,
+    "Genre": "Romans",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 11,
+    "Title": "Wzg�rze ps�w",
+    "Author": "Jean-Marie Gustave Le Clozio",
+    "ReleaseYear": 1998,
+    "Genre": "Fikcja literacka",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 12,
+    "Title": "Zaklęte rewiry",
+    "Author": "Jerzy Pilch",
+    "ReleaseYear": 1999,
+    "Genre": "Komedia obyczajowa",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 13,
+    "Title": "Wilk z Wall Street",
+    "Author": "Jordan Belfort",
+    "ReleaseYear": 2007,
+    "Genre": "Biografia",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 14,
+    "Title": "Martwe dusze",
+    "Author": "Nikołaj Gogol",
+    "ReleaseYear": 1842,
+    "Genre": "Satyra",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 15,
+    "Title": "Labirynt",
+    "Author": "Kate Mosse",
+    "ReleaseYear": 2005,
+    "Genre": "Przygodowy",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 16,
+    "Title": "Dracula",
+    "Author": "Bram Stoker",
+    "ReleaseYear": 1897,
+    "Genre": "Gotyk",
+    "IsOnLoan": true
+  },
+  {
+    "Id": 17,
+    "Title": "Niezwycięony",
+    "Author": "Stanisław Lem",
+    "ReleaseYear": 1964,
+    "Genre": "Science fiction",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 18,
+    "Title": "Złodziejka książek",
+    "Author": "Markus Zusak",
+    "ReleaseYear": 2005,
+    "Genre": "Historyczny",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 19,
+    "Title": "Pachnidło",
+    "Author": "Patrick S�skind",
+    "ReleaseYear": 1985,
+    "Genre": "Thriller",
+    "IsOnLoan": false
+  },
+  {
+    "Id": 20,
+    "Title": "Słownik khazarski",
+    "Author": "Milorad Pavić",
+    "ReleaseYear": 1984,
+    "Genre": "Postmodernizm",
+    "IsOnLoan": false
+  }
+]

@@ -17,7 +17,7 @@ namespace ppzo_opp_app.Interfaces
         {
             User = user;
         }
-        private List<BookModel> AllBooks => JsonConvert.DeserializeObject<List<BookModel>>(File.ReadAllText("books.json"));
+        private List<BookModel> AllBooks => JsonConvert.DeserializeObject<List<BookModel>>(File.ReadAllText(@"..\\..\\..\\Books\\books.json"));
 
         private List<BookModel> UsersBooks => AllBooks.Where(x => User.BookIds.Contains(x.Id)).ToList();
 
